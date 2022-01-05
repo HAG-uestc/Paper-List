@@ -1,5 +1,7 @@
 # Paper-List
 
+Our research interests include pose estimation, human parsing and skeleton-base action recognition.
+
 ## Pose Estimation
 
 ### AMANet: Adaptive Multi-Path Aggregation for Learning Human 2D-3D Correspondences (TMM 2021)
