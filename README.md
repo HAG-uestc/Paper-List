@@ -7,7 +7,7 @@ Our research interests include pose estimation, human parsing and skeleton-base 
 #### AMANet: Adaptive Multi-Path Aggregation for Learning Human 2D-3D Correspondences (TMM 2021)
 
 - [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9650661)
-- [PPT]()
+- PPT (release soon)
 - [code](https://github.com/HAG-uestc/AMANet-pytorch)
 
 #### Semantic-aware Transfer with Instance-adaptive Parsing for Crowded Scenes Pose Estimation (MM 2021)
