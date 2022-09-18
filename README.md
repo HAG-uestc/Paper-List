@@ -33,6 +33,10 @@ Our research interests include pose estimation, human parsing and skeleton-base 
 
 ## Skeleton-Base Action Recognition
 
+- [paper](https://arxiv.org/abs/2206.15085)
+- PPT (release soon)
+- [code] (https://github.com/HAG-uestc/ACFL)
+
 ## BibTeX
 ```BibTeX
 @article{wang2021amanet,
@@ -67,5 +71,12 @@ Our research interests include pose estimation, human parsing and skeleton-base 
   booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
   pages={3780--3788},
   year={2020}
+}
+
+@inproceedings{WangACFL,
+  title = {Skeleton-based Action Recognition via Adaptive Cross-Form Learning},
+  author={Xuanhan Wang and Yan Dai and Lianli Gao and Jingkuan Song},
+  booktitle = {ACM MM},
+  year={2022}
 }
 ```
