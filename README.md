@@ -35,7 +35,7 @@ Our research interests include pose estimation, human parsing and skeleton-base 
 
 - [paper](https://arxiv.org/abs/2206.15085)
 - PPT (release soon)
-- [code] (https://github.com/HAG-uestc/ACFL)
+- [code](https://github.com/HAG-uestc/ACFL)
 
 ## BibTeX
 ```BibTeX
