@@ -33,6 +33,8 @@ Our research interests include pose estimation, human parsing and skeleton-base 
 
 ## Skeleton-Base Action Recognition
 
+#### ACFL: Skeleton-based Action Recognition via Adaptive Cross-Form Learning (MM 2022)
+
 - [paper](https://arxiv.org/abs/2206.15085)
 - PPT (release soon)
 - [code](https://github.com/HAG-uestc/ACFL)
